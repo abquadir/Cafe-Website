@@ -1,0 +1,46 @@
+.nav-wrapper{
+    background: #6d4c41;
+    padding-left: 40px;
+}
+
+.section{
+    background-color: #6d4c41;
+    color:black;
+}
+.sidenav li a{
+    background-color: #6d4c41;
+    margin-bottom: 2px;
+    color: antiquewhite;
+}
+
+.slider .indicators .indicator-item.active{
+    background:#6d4c41 ;
+}
+
+.move{
+    margin-top: 60px;
+}
+.icon-coffee{
+    color: #6d4c41;
+}
+
+
+
+.footer-one{
+    background-color: #6d4c41;
+}
+
+.footer-two{
+    background-color: #3a2d29;
+    margin-bottom: 0;
+}
+
+.text{
+    text-align: end;
+    margin-right: 10px;
+}
+
+.card{
+    background-color:#6d4c41;
+    color: #ffffff;
+}
