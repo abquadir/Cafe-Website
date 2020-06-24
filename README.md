@@ -1,1 +1,1 @@
-# Cafe-Website : This website is just Static Page created with the help of Html , materialize css and small part jquery,For some this page more attractive i have used parallax effect and the icon in the navbar to make things look fancy.
+# Cafe-Website : This website is just Static Page created with the help of Html , materialize css and jquery,For making this page more attractive i have used parallax effect and the icon in the navbar to make things look fancy.
